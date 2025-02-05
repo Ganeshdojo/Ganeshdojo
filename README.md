@@ -2,22 +2,17 @@
 
 <!--
 **Ganeshdojo/Ganeshdojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on **AgroPredicta** (a full-stack crop prediction system) and a **Learning Management System** using **Node.js**, and more.
+- 🌱 I’m currently learning **Django**, **MongoDB**, and diving deeper into **full-stack web development**.
+- 👯 I’m looking to collaborate on **frontend development projects**, **web applications**, and **machine learning applications**.
+- 🤔 I’m looking for help with **optimizing backend performance**, **building scalable web applications**, and **improving frontend UI/UX**.
+- 💬 Ask me about **Python**, **Django**, **backend development**, and **frontend development** with **React**.
+- 📫 How to reach me: **pganesh0067@gmail.com** | **[LinkedIn Profile](https://www.linkedin.com/in/puram-ganesh-516538269/)** | **[Portfolio](https://ganeshdojo.github.io/Portfolio/)**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **If I had a crew like Luffy's, I’d be the one who eats all the food and gets lost on every adventure... and I’m totally okay with that.**
 
-# 💫 About Me:
-I am a student<br>i am actively applying for jobs<br>i am currently learning backend, completed frontend with html, css, javascript, react<br>know python, java, mongodb
 
 
 ## 🌐 Socials:
